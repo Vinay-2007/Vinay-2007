@@ -50,8 +50,3 @@
 📧 Email: vinay59375a@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/vinay-p-684ba5324  
 💻 GitHub: https://github.com/Vinay-2007
-
----
-
-## ⚡ Fun Fact
-I build AI tools that actually solve real-world problems 🚀
