@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinay</h1>
+<h1 align="center"><strong></strong>Hi 👋, I'm Vinay</strong></h1>
 <h3 align="center">Aspiring AI Engineer | GenAI & Automation Builder</h3>
 
 ---
